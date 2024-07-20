@@ -1,12 +1,12 @@
 {
-    "TOKEN": "",
+    "TOKEN": "MTIwNjAxODY4NTAyNjgyODM3MQ.GaSqtc.7fZ2jh9EXQjR3A0RVmPVFSoFN4eNjzu19u-JCk",
 
     "STATUS_ENABLED"   : true,
     "MESSAGE_ENABLED"  : true,
 
     "IDLER": {
            "CONFIG"  : {"STATUS_DELAY": 15},
-           "MESSAGE" : "",
+           "MESSAGE" : "helooo",
            "STATUSES": [
                                "",
                                ""
